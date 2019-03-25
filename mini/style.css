@@ -680,7 +680,8 @@ a.btn-white-bg {
 -----------------------------*/
 
 .breadcrumb-area {
-  background: rgba(0, 0, 0, 0) url("img/bg/breadcrumb.jpg") repeat scroll center center / cover;
+  /* background: rgba(0, 0, 0, 0) url("img/bg/breadcrumb.jpg") repeat scroll center center / cover; */
+  background: rgba(0, 0, 0, 0) url("img/bg/header_img.jpg") repeat scroll center center / cover;
   background-size: cover;
   padding: 120px 0 100px;
 }
